@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "number": 456,
+            "short_description": "Station 456"
+        },
+        {
+            "number": 123,
+            "short_description": "Station 123"
+        },
+        {
+            "number": 444,
+            "short_description": "Another station"
+        },
+        {
+            "number": 852,
+            "short_description": "Station 852"
+        }
+    ]
+}
